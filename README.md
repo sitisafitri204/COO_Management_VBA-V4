@@ -21,7 +21,6 @@ Tampilan ListBox — menampilkan hasil data secara langsung di dalam form
 👤 Pengembang
 
 Siti Nur Safitri
-NIM 23051214072
 S1 Sistem Informasi, Fakultas Teknik
 Universitas Negeri Surabaya
 
